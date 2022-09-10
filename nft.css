@@ -1,0 +1,64 @@
+body{
+  background-color:#002244;
+  margin-top: 30px;
+}
+.back{
+  background-color:#00416A;
+  padding:20px 20px;
+  border-radius: 15px;
+  
+  width:310px;
+  margin:auto;
+}
+.back img{
+  width: 300px;
+  height:300px;
+  border-radius: 7px;
+  text-align: center
+}
+h2{
+  color:white;
+  font-weight: 900;
+}
+p{
+  color:darkgrey;
+  font-weight: 600;
+  letter-spacing: 1px;
+  font-family: fantasy
+}
+h4{
+  color: deepskyblue;
+  font-weight: 900;
+}
+.right{
+  float:right;
+  color:darkgrey;
+  font-weight: normal;
+}
+ img.jules{
+  width:30px;
+  height:30px;
+  border:1px solid #fff;
+  border-radius:150px;
+}
+.last{
+  display:flex;
+}
+.last p{
+  margin:15px;
+  font-weight: 600;
+}
+.last img{
+  margin-top: 5px
+}
+.normal{
+  color:#fff;
+}
+.eth img{
+  width:20px;
+  height:20px;
+  color:blue;
+}
+.eth{
+  display:grid
+}
